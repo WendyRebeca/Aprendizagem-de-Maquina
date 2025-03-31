@@ -1,0 +1,2 @@
+IMC: [18, 20, 22, 25, 27, 30, 32, 35, 37, 40],
+Obeso: [False, False, False, False, True, True, True, True, True, True]
